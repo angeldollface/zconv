@@ -16,8 +16,6 @@ and adding some flowery stuff.
   <NumConverter/>
  </div>
 
- <FooterCog/>
-
 </template>
 
 <!--
