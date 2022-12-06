@@ -25,15 +25,13 @@ Importing our component with Vue's help.
 -->
 <script>
 // Importing the main component.
-import FooterCog from './components/FooterCog.vue';
 import NumConverter from './components/NumConverter.vue';
 
 // Registering the main component.
 export default {
   name: 'App',
   components: {
-    NumConverter,
-    FooterCog
+    NumConverter
   }
 }
 </script>
@@ -45,13 +43,13 @@ Styling our component.
 
 // Importing one of my fonts.
 @font-face{
-  font-family: 'Lobster';
-  src: url('https://blckunicorn.art/assets/fonts/Lobster.ttf') format('truetype');
+  font-family: 'MC';
+  src: url('https://angeldollface.art/assets/fonts/ttf/MC.ttf') format('truetype');
 }
 
 // Setting up the app's style constants.
 $stdPadding: 20px;
-$stdFont: 'Lobster';
+$stdFont: 'MC';
 $bgColor: #FFACA5;
 $stdBorderRadius: 25px;
 $divGradientOne: #EA1573;
