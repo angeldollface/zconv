@@ -38,13 +38,6 @@ export default {
 Styling our component.
 -->
 <style lang="scss">
-
-// Importing one of my fonts.
-@font-face{
-  font-family: 'MC';
-  src: url('https://angeldollface.art/assets/fonts/ttf/MC.ttf') format('truetype');
-}
-
 // Setting up the app's style constants.
 $stdPadding: 20px;
 $stdFont: 'MC';
