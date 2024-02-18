@@ -10,7 +10,7 @@ A while back I wrote a library that provides functions to convert between number
 
 ## DEPLOYED PROJECT ON GITHUB PAGES :rocket:
 
-The deployed project can be viewed [here](https://angeldollface.art/zconv).
+The deployed project can be viewed [here](https://angeldollface.boo/zconv).
 
 ## USAGE :hammer:
 
